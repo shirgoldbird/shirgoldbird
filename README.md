@@ -1,7 +1,7 @@
 ### Shir here. 👋
 
-My passion is making people's lives better with the power of great products.
+My passion is making developers' lives better through great products.
 
-I'm a product manager, with a background as a developer and consultant. My career throughline has been focused on creating delightful product experiences over complex, cutting-edge tech. I'm especially passionate about building DevEx and API products, and have worked on those at companies like Microsoft, Deepgram, and DeepL.
+I'm a senior product manager, with a background as a programmer and productivity consultant. I've built my career around creating delightful technical experiences that make complex tech easy to use. I've worked on DevEx and API products across companies like Microsoft, Deepgram, and now DeepL.
 
-Please have a look around, or [get in touch](https://shirgoldberg.com/contact/). I love meeting people!
+Please have a look around, or [get in touch](https://shirgoldberg.com/contact/). I love meeting people who are similarly passionate!
